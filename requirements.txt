@@ -1,0 +1,7 @@
+streamlit>=1.50.0
+langchain
+langchain-core
+langchain-openai
+pandas
+numpy
+sqlparse
